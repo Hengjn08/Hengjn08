@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### A passionate software engineer intern 😉
 
 - 📫 How to reach me **junenheng@hotmail.com**
-- ⚡ Fun fact **I push code to GitHub more often than I push myself to the gym 💪👨‍💻**
+- ⚡ Fun fact: **I push code to GitHub more often than I push myself to the gym 💪👨‍💻**
 
 ## Connect with me:
 <p align="left">
